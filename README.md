@@ -1,4 +1,4 @@
-# DockerNginxHAProxyTask
+# Docker-Nginx-HAProxy-Task
 
 Task:
 Create web cluster with two docker containers with a bash script
